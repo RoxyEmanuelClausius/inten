@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">intens</string>
+    <string name="nim">Nim:</string>
+    <string name="nama">Nama:</string>
+    <string name="keterangan">Keterangan:</string>
+    <string name="kembali">KEMBALI</string>
+    <string name="data_mahasiswa">Data Mahasiswa</string>
+    <string name="nilai">Nilai:</string>
+</resources>
